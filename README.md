@@ -4,8 +4,7 @@
 
 ###
 #### Why doing this?
-First of all, this was idea from my **Software Engineering Teacher**,  
-and I had to say that I've been having fun doing this, this was a very good idea.
+First of all, this was idea from my **Software Engineering Teacher**.
 
 If you are here, and you don't know what is **Advent of Code**, is basically  
 one programming problem (with part I and II) every day until advent day ,  
@@ -15,7 +14,10 @@ one programming problem (with part I and II) every day until advent day ,
 #### Whats the main goal?
 Well, the main target of this project is develop good habits and mental about  
 clear code. Using the patterns and the principles that we learned.  
-In one way, we can apply and learn concepts that are useful in real life 
+In one way, we can apply and learn concepts that are useful in real life.
+
+Well not all the days are developed with "perfect" clean code and using  
+all SOLID principles but, i think that is a good try
 
 
 ###
@@ -29,6 +31,5 @@ You have everything organized in folders:
 * **src/test** -> The Testing Environment, there are one class per problem, with their respective tests. 
   * **src/test/resources** -> This folder have all the inputs of the AoC for each daily problem.
 
-By the way, all the written code is documented, to facilitate understanding :)
 ###
 #### By Texenery Bordón Rodríguez
